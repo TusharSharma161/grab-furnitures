@@ -1,0 +1,109 @@
+/*---------- custom Style starts -------------*/
+
+body {
+    --nav-width: 200px;
+    margin     : 0 0 0 var(--nav-width);
+    font-family: 'Quicksand', sans-serif;
+    font-size  : 18px;
+}
+
+img {
+    width    : 100%;
+    max-width: 100%;
+}
+
+.nav {
+    position  : fixed;
+    top       : 0;
+    left      : 0;
+    width     : var(--nav-width);
+    height    : 100vh;
+    background: #222222;
+}
+
+.nav__link {
+    display        : block;
+    padding        : 12px 18px;
+    text-decoration: none;
+    color          : #eeeeee;
+    font-weight    : 500;
+}
+
+.nav__link:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+#app {
+    margin     : 2em;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+a {
+    color: #009579;
+}
+
+.card {
+    margin-bottom: 25px;
+}
+
+.card img {
+    max-width: 100%;
+    height   : 200px;
+    overflow : hidden;
+}
+
+.buyNowBtn {
+    background-color: #00579559;
+    border-radius   : 5px;
+    border          : none;
+    margin          : 5px;
+    padding         : 5px 20px;
+}
+
+.price {
+    margin: 10px;
+}
+
+.viewMore {
+    color    : #000;
+    font-size: 12px;
+}
+
+.backBtn {
+    font-size      : 15px;
+    line-height    : 1;
+    text-decoration: underline;
+    color          : inherit;
+}
+
+/*---------- custom Style ends -------------*/
+
+
+/*---------- loader Style starts -------------*/
+.loader {
+    border       : 16px solid #f3f3f3;
+    /* Light grey */
+    border-top   : 16px solid #3498db;
+    /* Blue */
+    border-radius: 50%;
+    width        : 120px;
+    height       : 120px;
+    animation    : spin 2s linear infinite;
+    position     : absolute;
+    top          : 50%;
+    left         : 50%;
+    transform    : translate(-50%, -50%);
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/*---------- loader Style ends -------------*/
