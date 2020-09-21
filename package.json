@@ -1,0 +1,13 @@
+{
+  "name": "grab-furnitures",
+  "description": "Single-Page Application built with Node.js and no dependencies",
+  "homepage": "https://michaelcurrin.github.io/grab-furnitures/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tusharSharmaa/grab-furnitures"
+  },
+  "author": "Tushar Sharma",
+  "license": "MIT",
+  "version": "0.1.0",
+  "main": "index.js"
+}

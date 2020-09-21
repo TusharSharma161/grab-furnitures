@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Furniture 1",
+    "price": 899,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "imgSrc": "../../static/images/1.jpg",
+    "imgAlt": "Product 1"
+  },
+  {
+    "id": 2,
+    "name": "Furniture 2",
+    "price": 999,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 5,
+    "imgSrc": "../../static/images/2.jpg",
+    "imgAlt": "Product 2"
+  },
+  {
+    "id": 3,
+    "name": "Furniture 3",
+    "price": 799,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 3,
+    "imgSrc": "../../static/images/3.jpg",
+    "imgAlt": "Product 3"
+  },
+  {
+    "id": 4,
+    "name": "Furniture 4",
+    "price": 699,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "imgSrc": "../../static/images/4.jpg",
+    "imgAlt": "Product 4"
+  },
+  {
+    "id": 5,
+    "name": "Furniture 5",
+    "price": 599,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 5,
+    "imgSrc": "../../static/images/5.jpg",
+    "imgAlt": "Product 5"
+  },
+  {
+    "id": 6,
+    "name": "Furniture 6",
+    "price": 699,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 2,
+    "imgSrc": "../../static/images/6.jpg",
+    "imgAlt": "Product 6"
+  },
+  {
+    "id": 7,
+    "name": "Furniture 7",
+    "price": 699,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 5,
+    "imgSrc": "../../static/images/7.jpg",
+    "imgAlt": "Product 7"
+  },
+  {
+    "id": 8,
+    "name": "Furniture 8",
+    "price": 899,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 1,
+    "imgSrc": "../../static/images/8.jpg",
+    "imgAlt": "Product 8"
+  },
+  {
+    "id": 9,
+    "name": "Furniture 9",
+    "price": 999,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "imgSrc": "../../static/images/9.jpg",
+    "imgAlt": "Product 9"
+  },
+  {
+    "id": 10,
+    "name": "Furniture 10",
+    "price": 899,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 3,
+    "imgSrc": "../../static/images/10.jpg",
+    "imgAlt": "Product 10"
+  },
+  {
+    "id": 11,
+    "name": "Furniture 11",
+    "price": 499,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 2,
+    "imgSrc": "../../static/images/11.jpg",
+    "imgAlt": "Product 11"
+  },
+  {
+    "id": 12,
+    "name": "Furniture 12",
+    "price": 599,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 3,
+    "imgSrc": "../../static/images/12.jpg",
+    "imgAlt": "Product 12"
+  }
+]
